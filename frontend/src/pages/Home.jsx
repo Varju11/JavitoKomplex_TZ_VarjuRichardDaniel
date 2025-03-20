@@ -13,7 +13,7 @@ const Home = (() => {
                     <div className="col-4 hatter">
                         <h3><br/>Központi felvételi<br/> tájékoztató</h3><br/>
                         <p>A középiskolákba történő jelentkezés során az<br/> iskolák határozzák meg, hogy a felvételi rangsort<br/> mi alapján döntik el. A Jószakma Szakgimnázium<br/> a felvételi során az általános iskolából hozott és a<br/> központi felvételin szerzett pontok alapján<br/> rangsorolja az iskolába jelentkezőket.</p>
-                        <Link to="">Tájékoztató oldal</Link><br />
+                        <Link to="//www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/kozepfoku_felveteli_eljaras_informacioi">Tájékoztató oldal</Link><br />
                         <img src="logo.png" alt="OKTATÁSI HIVATAL" />
                     </div>
                     <div className="col-4">
@@ -24,7 +24,7 @@ const Home = (() => {
                     </div>
                     <div className="col-4 hatter">
                         <h3><br/>Az oldal használatáról</h3><br/>
-                        <h6>Ön az oldal használatával a következő<br/> információkhoz juthat hozzá</h6>
+                        <h6>Ön az oldal használatával a következő<br/><strong>információkhoz juthat hozzá</strong> </h6>
                         <ul className="list pl0 ml0 center mw6 ba b--light-silver br2">
                             <li className="ph3 pv3 bb b--light-silver">Előzetes rangsor: </li>
                             <ol>
