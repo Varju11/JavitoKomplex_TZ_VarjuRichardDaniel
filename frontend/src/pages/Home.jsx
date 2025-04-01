@@ -39,7 +39,7 @@ const Home = (() => {
                 </div>
                 <div className="row">
                     <div className="col-4">
-                        <h2>A felvételt nyert tanulók névsora a nyelvi előkészítőre</h2>
+                        <h2>A felvételt nyert tanulók névsora a nyelvi előkészítőr</h2>
                         <Valaszto />
                     </div>
                     <div className="col-8">
